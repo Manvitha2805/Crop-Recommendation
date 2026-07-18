@@ -8,7 +8,7 @@ A machine learning powered web application that recommends the most suitable cro
 
 Choosing the right crop for a given plot of land is a critical decision for farmers, and it depends on multiple interacting factors — soil nutrient composition, temperature, humidity, soil pH, and rainfall. This project uses a supervised machine learning model trained on historical agricultural data to recommend the crop best suited to a given set of conditions, and presents it through a simple, interactive web interface.
 
-**Live demo:** (Streamlit Cloud link here once deployed)
+**Live demo:** https://crop-recommendation-b7piwaadfcz7xebgeyql44.streamlit.app/
 
 ---
 
